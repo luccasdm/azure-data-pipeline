@@ -2,7 +2,7 @@
 
 A arquitetura do projeto segue conforme imagem abaixo:
 
-![alt text](arquitetura.png)
+![alt text](azure-architect.png)
 
 
 ### 1 Data Source (HTTP Datasets) - 
