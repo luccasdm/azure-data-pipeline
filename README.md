@@ -16,5 +16,3 @@ A arquitetura do projeto segue conforme imagem abaixo:
 ### 5 Transformed Data (Data Lake Gen 2) - 
 
 ### 6 Analytics (Synapse Analytics) - 
-
-### 7 Dashboard (Power BI) -
