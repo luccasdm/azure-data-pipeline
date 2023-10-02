@@ -1,0 +1,9 @@
+{
+	"name": "adf-dev-projects",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "47cc7986-6cd8-4874-8dc8-5c14a4f35198",
+		"tenantId": "82734459-337e-47e5-99b3-2c19ee6dc472"
+	}
+}
