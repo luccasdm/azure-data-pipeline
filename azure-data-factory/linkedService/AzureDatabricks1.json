@@ -11,7 +11,7 @@
 					"referenceName": "AzureKeyVault1",
 					"type": "LinkedServiceReference"
 				},
-				"secretName": "kv-luccas-garcia"
+				"secretName": "DatabricksToken"
 			},
 			"existingClusterId": "0928-171559-7wm864lz"
 		}
