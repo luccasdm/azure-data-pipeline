@@ -11,9 +11,9 @@
 					"referenceName": "AzureKeyVault1",
 					"type": "LinkedServiceReference"
 				},
-				"secretName": "luccasgarcia"
+				"secretName": "kv-luccas-garcia"
 			},
-			"existingClusterId": "Luccas Del Mastro Garcia's Cluster"
+			"existingClusterId": "4358146030270861"
 		}
 	}
 }
