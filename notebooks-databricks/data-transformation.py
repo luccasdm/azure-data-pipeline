@@ -1,4 +1,8 @@
 # Databricks notebook source
+user = dbutils.secrets.get(scope="key-vault-secret-02", key="secret-sql-user-teste")
+
+# COMMAND ----------
+
 from pyspark.sql.functions import col
 from pyspark.sql.types import IntegerType, DoubleType, BooleanType, DateType
 
@@ -12,7 +16,7 @@ configs = {"fs.azure.account.auth.type": "OAuth",
 
 
 dbutils.fs.mount(
-source = "abfss://tokyo-olympic-data@stdataproject01.dfs.core.windows.net", # contrainer@storageacc
+source = "abfss://tokyo-olympic-data@stdataproject01.dfs.core.windows.net", 
 mount_point = "/mnt/tokyoolymic",
 extra_configs = configs)
 
