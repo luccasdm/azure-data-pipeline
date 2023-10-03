@@ -2,7 +2,7 @@
 
 A arquitetura do projeto segue conforme imagem abaixo:
 
-![alt text](architect.png)
+![alt text](architect.jpg)
 
 
 ### 1 Data Source (HTTP Datasets) - 
